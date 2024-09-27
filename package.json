@@ -1,0 +1,20 @@
+{
+  "name": "atividadesdevops03-emanuel_henrique_2314290017",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Henrique-023/AtividadesDevOps03-Emanuel_Henrique_2314290017.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Henrique-023/AtividadesDevOps03-Emanuel_Henrique_2314290017/issues"
+  },
+  "homepage": "https://github.com/Henrique-023/AtividadesDevOps03-Emanuel_Henrique_2314290017#readme"
+}
