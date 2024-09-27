@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/Henrique-023/AtividadesDevOps03-Emanuel_Henrique_2314290017/issues"
   },
-  "homepage": "https://github.com/Henrique-023/AtividadesDevOps03-Emanuel_Henrique_2314290017#readme"
+  "homepage": "https://github.com/Henrique-023/AtividadesDevOps03-Emanuel_Henrique_2314290017#readme",
+  "devDependencies": {
+    "nodemon": "^3.1.7"
+  }
 }
